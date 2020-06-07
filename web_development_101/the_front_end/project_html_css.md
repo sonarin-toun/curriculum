@@ -6800,6 +6800,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Jean-Baptiste's Solution (Easy)](https://github.com/pjbaptiste/google-homepage) - [View in Browser](https://pjbaptiste.github.io/google-homepage/)
 * [JoeBlakey's Solution (Easy)](https://github.com/JoeBlakey/google-homepage) - [View in Browser](https://joeblakey.github.io/google-homepage/)
 * [Dr.Baxter's Solution (Easy)](https://github.com/DrBaxter/Google-Recode) - [View in Browser](https://drbaxter.github.io/Google-Recode/)
+* [Sonarin Toun's Solution (Easy & Difficult)](https://github.com/sonarin-toun/clone-google-pages) - [View in Browser (Easy)](https://sonarin-toun.github.io/clone-google-pages/) - [View in Browser (Difficult)](https://sonarin-toun.github.io/clone-google-pages/search-result.html?)
 
 
 </details>
